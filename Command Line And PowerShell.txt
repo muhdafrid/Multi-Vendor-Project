@@ -1,0 +1,2 @@
+java -cp ".;lib/mysql-connector-j-8.0.33.jar" Main - for PowerShell
+java -cp .;lib/mysql-connector-j-8.0.33.jar Main - Command Line
